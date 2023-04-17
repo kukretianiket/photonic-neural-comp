@@ -1,2 +1,2 @@
 # photonic-neural-comp
-Documenting the project progress.
+Documentation for the Photonic Neural Computing project.
