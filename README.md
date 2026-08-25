@@ -1,7 +1,7 @@
 # Photonic Neural Computing
 
-Research code and supporting material for a thesis project on optical neural
-networks (ONNs), calibration, and photonic computing architectures.
+Research code and supporting material for a thesis project (2023-2024) on optical neural
+networks (ONNs), calibration, and photonic computing architectures. 
 
 ## Start here
 
