@@ -34,8 +34,6 @@ The notebooks are research artifacts rather than a packaged application.
 └── archive/
     ├── docs/
     │   └── week2.pdf
-    ├── logs/
-    │   └── report.log
     ├── notebooks/
     │   ├── calibration_experiments.ipynb
     │   ├── inference_draft.ipynb
